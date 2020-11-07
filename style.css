@@ -1,6 +1,7 @@
-#carouselExampleControls {
-    width: 400px;
-    height: 300px;
+.carousel-inner {
+    width: 300px;
+    height: 500px;
+    
 }
 
 .display-4 {
@@ -15,6 +16,19 @@
 }
 
 .nav {
-    font-style: italic;
+    
     font-weight: bold;
+    font-size: large;
+    font-style: oblique;
 }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.nav {
+    background-color:pink
+}
+
