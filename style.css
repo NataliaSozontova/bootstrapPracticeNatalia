@@ -13,3 +13,8 @@
     background-color: violet;
     text-align: center;
 }
+
+.nav {
+    font-style: italic;
+    font-weight: bold;
+}
