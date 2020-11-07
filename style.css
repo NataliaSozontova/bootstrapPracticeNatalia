@@ -1,0 +1,15 @@
+#carouselExampleControls {
+    width: 400px;
+    height: 300px;
+}
+
+.display-4 {
+    background-color: turquoise;
+    text-align: center;
+    
+}
+
+.lead {
+    background-color: violet;
+    text-align: center;
+}
